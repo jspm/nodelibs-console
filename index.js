@@ -1,0 +1,1 @@
+module.exports = System._nodeRequire ? System._nodeRequire('console-browserify') : require('console');
