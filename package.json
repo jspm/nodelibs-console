@@ -1,6 +1,13 @@
 {
-  "registry": "npm",
-  "dependencies": {
-    "console-browserify": "^1.1.0"
+  "main": "./console.js",
+  "registry": "github",
+  "map": {
+    "./console.js": {
+      "node": "@node/console"
+    }
+  },
+  "peerDependencies": {
+    "util": "jspm/nodelibs-util@^0.2.0",
+    "assert": "jspm/nodelibs-util@^0.2.0"
   }
 }
