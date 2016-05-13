@@ -7,7 +7,7 @@
     }
   },
   "peerDependencies": {
-    "util": "jspm/nodelibs-util@^0.2.0",
-    "assert": "jspm/nodelibs-util@^0.2.0"
+    "util": "jspm/nodelibs-util@^0.2.0-alpha",
+    "assert": "jspm/nodelibs-util@^0.2.0-alpha"
   }
 }
