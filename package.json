@@ -1,16 +1,15 @@
 {
   "main": "./console.js",
   "name": "jspm-nodelibs-console",
-  "version": "0.2.0",
-  "registry": "github",
+  "version": "0.2.1",
   "map": {
     "./console.js": {
       "node": "@node/console"
     }
   },
   "peerDependencies": {
-    "util": "jspm/nodelibs-util@^0.2.0-alpha",
-    "assert": "jspm/nodelibs-util@^0.2.0-alpha"
+    "util": "jspm-nodelibs-util@^0.2.0",
+    "assert": "jspm-nodelibs-util@^0.2.0"
   },
   "jspmNodeConversion": false
 }
