@@ -1,7 +1,7 @@
 {
   "main": "./console.js",
   "name": "jspm-nodelibs-console",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "map": {
     "./console.js": {
       "node": "@node/console"
